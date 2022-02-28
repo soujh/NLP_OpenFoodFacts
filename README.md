@@ -15,5 +15,5 @@ Vous pouvez retrouver les données en suivant ce lien au lien: Vous pouvez retro
   <li>Data exploration</li>
   <li>Data Viz</li>
   <li>word2Vec</li>
-  <li>Data Viz</li>
+  <li>Modélisations</li>
 </ul>
